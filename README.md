@@ -33,7 +33,7 @@ cd note-taker
        npx nodemon index.js
 ```
 
-
+```bash
 note-taker/
 │
 ├── files/               # All note .txt files are saved here
@@ -46,9 +46,11 @@ note-taker/
 ├── package.json
 └── README.md
 
-🌐 Tech Stack
-Node.js
-Express.js
-EJS (Embedded JavaScript Templates)
-Tailwind CSS (for styling)
-File System (fs) Module
+```
+---
+## 🌐 Tech Stack
+🪄Node.js
+🪄Express.js
+🪄EJS (Embedded JavaScript Templates)
+🪄Tailwind CSS (for styling)
+🪄File System (fs) Module
