@@ -32,7 +32,7 @@ cd note-taker
 ```bash
        npx nodemon index.js
 ```
-
+### 🛠 Project Structure
 ```bash
 note-taker/
 │
@@ -49,8 +49,9 @@ note-taker/
 ```
 ---
 ## 🌐 Tech Stack
-🪄Node.js
-🪄Express.js
-🪄EJS (Embedded JavaScript Templates)
-🪄Tailwind CSS (for styling)
-🪄File System (fs) Module
+
+- **Node.js**
+- **Express.js**
+- **EJS (Embedded JavaScript Templates)**
+- **Tailwind CSS** (for styling)
+- **File System (fs) Module**
