@@ -32,6 +32,7 @@ cd note-taker
 ```bash
        npx nodemon index.js
 ```
+---
 ### 🛠 Project Structure
 ```bash
 note-taker/
