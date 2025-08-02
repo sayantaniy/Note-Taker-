@@ -4,6 +4,11 @@ A simple web-based note-taking application built with **Node.js**, **Express**, 
 
 ---
 
+# 🚀 Live Demo
+🔗 https://note-taker-62k8.onrender.com/
+
+---
+
 ## 📁 Features
 
 - Create text notes (`.txt` files)
