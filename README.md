@@ -21,12 +21,17 @@ A simple web-based note-taking application built with **Node.js**, **Express**, 
 ```bash
 git clone https://github.com/your-username/note-taker.git
 cd note-taker
+```
 
 ### 2. Install Dependencies
+```bash
        npm install
+```
 
 ### 3. Run the app
+```bash
        npx nodemon index.js
+```
 
 
 note-taker/
@@ -43,11 +48,7 @@ note-taker/
 
 🌐 Tech Stack
 Node.js
-
 Express.js
-
 EJS (Embedded JavaScript Templates)
-
 Tailwind CSS (for styling)
-
 File System (fs) Module
